@@ -1,6 +1,10 @@
 # Learn CSS Transforms by Building a Penguin
 
+![Uploading screencapture-freecodecamp-responsive-web-design-github-io-learn-css-transforms-by-building-a-penguin-2024-09-17-13_19_46.png…]()
+
 This project is part of the **FreeCodeCamp** curriculum, where you'll learn **CSS Transforms** by creating a **Penguin** animation.
+
+[Learn CSS Transforms by Building a Penguin](https://freecodecamp-responsive-web-design.github.io/learn-css-transforms-by-building-a-penguin/)
 
 ## In this project, you will:
 - Explore various **CSS transform properties** to create a penguin illustration.
